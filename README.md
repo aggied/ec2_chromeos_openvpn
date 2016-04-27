@@ -31,7 +31,7 @@ This script is specifically written for amazons EC2 instance using amazons linux
      up for both TCP/UDP
 * Step 2: Get the scripts...
 ```
-curl https://nodeload.github.com/royans/ec2_chromeos_openvpn/zip/master > m.zip; unzip m.zip
+wget https://github.com/aggied/ec2_chromeos_openvpn/archive/master.zip; unzip master.zip
 ```
 * Step 3: Update vars.sh
    + This step is optional.
